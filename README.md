@@ -4,5 +4,5 @@
 Netflix responsive website is a front end  web application is designed to mimic the core functionality of the streaming platform. It allow the users to watch,browser the library of movies. The clone includes a dynamic homepage with featured contents of HTML and CSS. The clone is fully responsive and adjusts to different screen 
 sizes, ensuring a seamless user experience across devices.
 # Special features
- Secure sign-up with personalized profiles.
+ Secure sign-up with personalized profiles.Multiple resolutions offline viewing, and multi-language support.
 
