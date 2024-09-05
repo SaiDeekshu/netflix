@@ -7,4 +7,5 @@ sizes, ensuring a seamless user experience across devices.
 -> Secure sign-up with personalized profiles.
 ->Multiple resolutions,offline viewing, and multi-language support.
 ->Users can view their order history and track order status.
+->Add, remove, and update product quantities in a persistent shopping cart.
 
